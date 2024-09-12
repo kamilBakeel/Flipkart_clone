@@ -1,0 +1,463 @@
+.navbar{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #ffffff;
+}
+.flogo{
+    height:40px;
+    width: 160px;
+    background-image: url("filipcart\ logo.svg");
+    background-size:cover;
+  
+}
+.in1{
+    height: 20px;
+    width: 350px;
+   
+}
+.inin{
+    height: 20px;
+    width: 350px;
+    outline:none;
+    border-left:none;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+}
+
+.lance{
+    width: 44px;
+    position: relative;
+    left: 35px;
+    top:5px;
+}
+.login a{
+    text-decoration:none;
+    color:black;
+}
+.contain{
+    height: 125px;
+    display: flex;
+   background-color: #ffffff;
+}
+.subnav{
+    height: 70px;
+    width: 70px;
+    background-image: url("grocery.webp");
+    background-size:cover; 
+    position: relative;
+    top: 20px;     
+}
+.main{
+    height: 110px;
+    width: 100px;
+    padding-left: 10px;
+}
+.main a{
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: 90px;
+    left: 10px;
+}
+.subnav2{
+    height: 70px;
+    width: 70px;
+    background-image: url("mobile.webp");
+    background-size:cover; 
+    position: relative;
+    top: 20px;     
+}
+.subnav3{
+    height: 70px;
+    width: 70px;
+    background-image: url("fashion2.jfif");
+    background-size:cover;  
+    position: relative;
+    top: 20px;  
+}
+.subnav4{
+    height: 70px;
+    width: 70px;
+    background-image: url("tv.jfif");
+    background-size:contain;  
+    position: relative;
+    top: 20px;  
+}
+.subnav5{
+    height: 70px;
+    width: 70px;
+    background-image: url("home.jfif");
+    background-size:contain;  
+    position: relative;
+    top: 20px;  
+}
+
+.subnav6{
+    height: 70px;
+    width: 70px;
+    background-image: url("appliances.jpg");
+    background-size:cover; 
+    position: relative;
+    top: 20px;    
+}
+.subnav7{
+    height: 70px;
+    width: 70px;
+    background-image: url("flight.jfif");
+    background-size:cover;  
+    position: relative;
+    top: 20px;  
+}
+
+.subnav8{
+    height: 70px;
+    width: 70px;
+    background-image: url("baby.jfif");
+    background-size:cover;  
+    position: relative;
+    top: 20px;  
+}
+
+.subnav9{
+    height: 70px;
+    width: 70px;
+    background-image: url("bike.jfif");
+    background-size:cover;  
+    position: relative;
+    top: 20px;  
+}
+#a1{
+    position: absolute;
+   top: 62px;
+   font-weight: lighter;
+   font-size: 12px;
+}
+#a2{
+    position: absolute;
+   top: 52px;
+   font-weight: lighter;
+   font-size: 12px;
+}
+body{
+    background-color:whitesmoke;
+}
+.heading{
+    
+    color: #212121;
+
+}
+.row1{
+    height: 200px;
+    display: flex;
+}  
+.box1{
+    height: 160px;
+    width:150px;
+    background-image: url("shopping.webp");
+    background-size:cover;
+border: 2px solid white;
+}
+.box1 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box2{
+    height: 160px;
+    width:150px;
+    background-image: url("ear\ buds.webp");
+    background-size:cover;
+    
+}
+.box2 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box3{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("moniter.jfif");
+    background-size:contain;
+    
+}
+.box3 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box4{
+    height: 160px;
+    width:150px;
+  
+    background-image: url("mobile\ speaker.webp");
+    background-size:cover;
+    
+}
+.box4 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box5{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("shavers.webp");
+    background-size:cover;
+    
+}
+.box5 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box6{
+    height: 160px;
+    width:150px;
+ 
+    background-image: url("dell\ cpu.jfif");
+    background-size:cover;
+    
+}
+.box6 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box7{
+    height: 160px;
+    width:150px;
+
+    background-image: url("sweatershirt.jfif");
+    background-size:cover;
+    
+}
+.box7 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box8{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("kurti.webp");
+    background-size:cover;
+    
+}
+.box8 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box9{
+    height: 160px;
+    width:150px;
+  
+    background-image: url("pants.jfif");
+    background-size:cover;
+    
+}
+.box9 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box10{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("bags.jfif");
+    background-size:cover;
+    
+}
+.box10 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box11{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("sarees.jfif");
+    background-size:cover;
+    
+}
+.box11 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box12{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("shoes.jfif");
+    background-size:cover;
+    
+}
+.box12 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box13{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("helmit.webp");
+    background-size:cover;
+    
+}
+.box13 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box14{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("book.webp");
+    background-size:cover;
+    
+}
+.box14 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box15{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("air\ fresher.webp");
+    background-size:cover;
+    
+}
+.box15 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box16{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("Washing\ cloth.webp");
+    background-size:contain;
+    
+}
+.box16 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box17{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("Teddy\ Bear.webp");
+    background-size:cover;
+    
+}
+.box17 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+.box18{
+    height: 160px;
+    width:150px;
+   
+    background-image: url("Riding\ Gloves.jpg");
+    background-size:cover;
+    
+}
+.box18 a{
+    text-decoration: none;
+    color: #212121;
+    position:relative;
+    top: 160px;
+    left: 20px;
+}
+
+
+
+.foot{
+    height: 300px;
+    display: flex;
+}
+.about a{
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+    font-size:13px;
+   
+}
+.about{
+   
+    width: 150px;
+    font-size:13px;
+    background-color: #212121;
+}
+.botnav{
+    height: 70px;
+    margin-top: 0.5px;
+}
+.botnav{
+    background-color: #212121;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+   
+}
+.botnav a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size:13px;
+}
+
+
+
